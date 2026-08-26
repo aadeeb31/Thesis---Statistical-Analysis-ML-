@@ -1,0 +1,46 @@
+Custom License (MIT-Style, with Mandatory Citation Clause)
+
+Copyright (c) 2026 Mostofa Aadeeb Chowdhury and co-authors
+(Sanjana Chowdhury, Md. Ashraful Islam, Md. Golam Kader)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to
+deal in the Software without restriction, including without limitation the
+rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+sell copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+1. The above copyright notice and this permission notice shall be included
+   in all copies or substantial portions of the Software.
+
+2. CITATION REQUIREMENT. Any use of this Software, in whole or in part —
+   including but not limited to use in academic research, theses,
+   publications, presentations, derivative software, or commercial
+   products — must cite the following work:
+
+   Chowdhury, M. A., Chowdhury, S., Islam, M. A., & Kader, M. G.
+   "Auxetic-Clamping Suppression of Peel-Stress Failure in FDM-PETG
+   Single-Lap Adhesive Joints: A Closed-Loop, Machine-Learning-Guided
+   Design Study." Manuscript submitted for peer review (2026).
+
+   This manuscript is not yet published — see CITATION.cff and the note
+   in README.md for how to update this citation once it is accepted and
+   assigned a DOI.
+
+   A machine-readable citation is also provided in the CITATION.cff file
+   included in this repository.
+
+3. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+   IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+   CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+   TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+   SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Note: This is a custom license and is not an OSI-approved open-source
+license (the added citation requirement makes it non-compliant with the
+OSI Open Source Definition). It is a common pattern for academic code
+releases. This text is provided as a template and does not constitute
+legal advice; consult your institution or a legal professional if you
+need enforceability guarantees beyond a good-faith citation request.

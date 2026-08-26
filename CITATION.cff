@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "This manuscript is currently under peer review and does not yet have a DOI. If you use this code, please cite it as an unpublished manuscript for now (see below), and update to the published version once it is available -- check this file's 'preferred-citation' block for updates."
+type: software
+title: "Code for: Auxetic-Clamping Suppression of Peel-Stress Failure in FDM-PETG Single-Lap Adhesive Joints: A Closed-Loop, Machine-Learning-Guided Design Study"
+authors:
+  - family-names: "Chowdhury"
+    given-names: "Mostofa Aadeeb"
+  - family-names: "Chowdhury"
+    given-names: "Sanjana"
+  - family-names: "Islam"
+    given-names: "Md. Ashraful"
+  - family-names: "Kader"
+    given-names: "Md. Golam"
+date-released: 2026-08-26
+url: "https://github.com/aadeeb31/auxetic-SLJ-ML-paper-3"
+preferred-citation:
+  type: unpublished
+  title: "Auxetic-Clamping Suppression of Peel-Stress Failure in FDM-PETG Single-Lap Adhesive Joints: A Closed-Loop, Machine-Learning-Guided Design Study"
+  authors:
+    - family-names: "Chowdhury"
+      given-names: "Mostofa Aadeeb"
+    - family-names: "Chowdhury"
+      given-names: "Sanjana"
+    - family-names: "Islam"
+      given-names: "Md. Ashraful"
+    - family-names: "Kader"
+      given-names: "Md. Golam"
+  status: "submitted"
+  year: 2026
+  notes: "Manuscript submitted for peer review; not yet published. Replace this 'unpublished' block with a 'preferred-citation: type: article' block (journal, volume, pages, DOI) once accepted -- see README.md."
