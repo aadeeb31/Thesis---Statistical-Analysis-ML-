@@ -1,0 +1,12 @@
+variant,R2_mean,R2_SD
+all seven inputs,0.8736,0.0315
+drop AI,0.8655,0.0274
+drop por,0.8738,0.0317
+drop IL,0.8388,0.0384
+drop epoxy,0.8736,0.0317
+drop t,0.8738,0.0314
+drop GR,0.8706,0.0316
+drop CAR,0.8592,0.0406
+"drop t, porosity, epoxy",0.8738,0.0314
+drop AI and porosity,-0.1717,0.2414
+"only AI, IL, CAR",0.871,0.0303

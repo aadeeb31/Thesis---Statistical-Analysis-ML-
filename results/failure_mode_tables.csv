@@ -1,0 +1,9 @@
+topology_type,AF,AF-M,CF,CF-IL,CF-M,M
+auxetic_45deg,0,0,0,4,10,22
+auxetic_60deg,2,10,0,0,6,18
+auxetic_75deg,10,18,8,0,0,0
+base,1,0,3,0,0,0
+fgax_t1,0,0,0,6,4,2
+fgax_t2,0,0,0,2,4,6
+flat,1,2,9,0,0,0
+spacer_2mm,2,0,10,0,0,0
